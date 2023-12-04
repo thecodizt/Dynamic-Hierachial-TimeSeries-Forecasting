@@ -1,6 +1,6 @@
 # Dynamic Hierarchical Time Series Forecasting
 
-This project focuses on hierarchical time series forecasting with a unique twist - the ability to dynamically generate hierarchies. We leverage language model assisted embeddings to create clusters at various levels, converting cross-sectional information into any required number of levels dynamically.
+This paper proposes a novel approach to hierarchical time series forecasting, leveraging the power of sentence embeddings from language models to capture contextual data from text and dynamically create hierarchies through clustering. The primary application of this research is to enhance sales forecasting in a dynamic manner. Traditional hierarchical time series forecasting methods often fail to adapt to rapidly changing market conditions and trends. Our approach addresses this issue by using sentence embeddings from language models, which capture the semantic and syntactic nuances of text data, to create dynamic hierarchies through clustering. These hierarchies are then used for time series forecasting, allowing for a more flexible and adaptive model that can better handle changes in the market. This research opens up new avenues for incorporating natural language processing techniques in time series forecasting and has significant implications for various industries, particularly in sales and supply chain management. The effectiveness of our approach will be validated through future experiments on real-world sales data.
 
 ## Features
 
