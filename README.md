@@ -9,3 +9,7 @@ This paper proposes a novel approach to hierarchical time series forecasting, le
 - **Contextual Embeddings**: We use advanced language model assisted embeddings to capture contextual information, which aids in the creation of meaningful clusters.
 
 - **Hierarchical Forecasting**: Our method preserves the relationships within the hierarchy, allowing for nuanced and dynamic forecasting models.
+
+## Dataset
+
+Amazon Sales Report: https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data?select=Amazon+Sale+Report.csv
